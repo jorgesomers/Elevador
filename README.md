@@ -27,9 +27,11 @@ Métodos -
 -> Id - identificação do elevador
 
 -> Sobe - Elevador Sobe até limite qtd Andares
+
 -> Desce - Elevador Desce até Zero
 
 -> MaxOcup - ocupação maxima do elevador
+
 -> MaxAndar - numero máximo de andares 
 
 -> Embarcou - numero atual de ocupacao 
