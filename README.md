@@ -25,25 +25,17 @@ Criação de Predio com qtd de Andares, qtd de Elevadores e Capacidades.
 
 Métodos - 
 -> Id - identificação do elevador
-
 -> Sobe - Elevador Sobe até limite qtd Andares
-
 -> Desce - Elevador Desce até Zero
-
 -> MaxOcup - ocupação maxima do elevador
-
 -> MaxAndar - numero máximo de andares 
-
 -> Embarcou - numero atual de ocupacao 
 -> VcEmbarcou - se voce está no elevador
-
 -> AndarAtual - metodo que retorna o andar atual e configura em qual andar está e nao deixa passar dos limites 
 -> Acao(nAcao) - nAcao listada abaixo -
-
 TipoAcao.SOBE;
 TipoAcao.DESCE;
 TipoAcao.VOCEENTRA;
 TipoAcao.VOCESAI;
 TipoAcao.VISITAENTRA;
 TipoAcao.VISITASAI;
-
